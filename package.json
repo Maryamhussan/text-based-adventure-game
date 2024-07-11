@@ -1,0 +1,28 @@
+
+  {
+  
+    "publishConfig": {
+      "access": "public"
+    },
+  "name": "text-based-adventure-game-maryamhussain",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.3.5",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.10",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
